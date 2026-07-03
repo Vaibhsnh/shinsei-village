@@ -212,7 +212,7 @@ transform: translateY(-4px);
 .curve{
     position:absolute;
     bottom:0;
-    top: 150px;
+    top: 180px;
     width:100%;
     line-height:0;
     z-index: 50;
